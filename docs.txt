@@ -1,0 +1,6 @@
+
+
+-- docs libraries
+1. wheel -> to compile database sql platform
+2. mysqlclient -> connector mysql to django systems
+3. django-restframework -> to manage restfull api
